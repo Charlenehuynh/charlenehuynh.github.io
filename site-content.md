@@ -40,32 +40,32 @@ I have a confession: I hate inefficiency. It's kind of become my whole career. O
 
 **Work Experience**
 
-*AI & Programming Instructor* — Algorithmics School, Kirchberg, Luxembourg (Part-time, Apr 2026–Present)
+*AI & Programming Instructor* — Algorithmics School, Kirchberg, Luxembourg (Part-time (weekends), 2026–Present)
 - Teach visual programming and AI courses to students in French.
 - Design interactive, project-based lessons to develop logical thinking.
 
 [Education]
 
-- **Master of Database Architecture and Data** · 42 School, Belval · 2024–Present
+- **Master of Network Information System Architecture (RNCP 7)** · 42 School, Belval · 2024 – Expected Dec 2026
   Project-based programming in C, C++, Python and JavaScript; led a 5-person team as Product Owner on a real-time web app.
-- **AI Academy** · DLH Luxembourg · Apr 2025
+- **AI Academy** · DLH Luxembourg · 2025
   7-month AI specialization in Python, data and machine learning, with a capstone project.
 - **CS50: Introduction to Computer Science** · Harvard University · 2024
   Algorithms and data structures in C, plus Python, SQL and web development.
 
-*Project Manager / Sales Team Lead @Facebook (Meta)* — TDCX, Bangkok, Thailand (Dec 2021–Jun 2023)
+*Project Manager / Sales Team Lead @Facebook (Meta)* — TDCX, Bangkok, Thailand (2021–2023)
 _Meta's global service partner, 14,000+ employees across 12 locations._
 - Stepped up as interim Project Manager, implemented new internal tools and revamped Tableau dashboards.
 - Automated weekly/quarterly reports using Power Automate, VBA, Power Query — cut manual data time by 70%.
 - Scaled account operations from 15 to 100+ personnel in 2 years, leading 18 experts on a $10M+ portfolio; earned Bangkok's Highest Achievement Team Award.
 
-*Project Manager & Business Analyst (Cloud SaaS)* — Kalibrr Inc (Y Combinator portfolio), Manila, Philippines (Jun 2019–Nov 2020)
+*Project Manager & Business Analyst (Cloud SaaS)* — Kalibrr Inc (Y Combinator portfolio), Manila, Philippines (2019–2020)
 _HR-tech startup (50 employees) providing SaaS recruitment software across 4 countries._
 - Launched cloud recruiting platform as first local hire; full setup in 90 days (legal, office, hiring, SOPs).
 - Led client onboarding for 3–7 concurrent SaaS implementations, gathering and structuring business requirements from client stakeholders and coordinating with IT teams to deliver on time.
 - Orchestrated COVID-19 remote-work transition (hardware, logistics, deployment).
 
-*IT Project & Product Manager (Odoo ERP)* — Thanh Phat Hung Ltd., Ho Chi Minh City, Vietnam (Jul 2017–Jun 2019)
+*IT Project & Product Manager (Odoo ERP)* — Thanh Phat Hung Ltd., Ho Chi Minh City, Vietnam (2017–2019)
 _One of Vietnam's largest auto & marine spare parts distributors, with 4 branches._
 - Led product discovery and implementation of a cloud Odoo ERP system for 150+ employees (Finance, Sales, Logistics, Tax, Warehouse) across 4 branches.
 - Acted as functional administrator, taking the rollout from requirements elicitation through acceptance criteria and go-live with a cross-functional team of 10.
@@ -80,15 +80,15 @@ _Youth initiative NGO under Malaysia's Ministry of Youth._
 - Content Review Analyst — Accenture, Malaysia (2016–2017)
 
 **Education**
-- Master of Database Architecture and Data — 42 School, Belval, Luxembourg (2024–Present) — Focus: C, C++, Python, JavaScript
+- Master of Network Information System Architecture (RNCP 7) — 42 School, Belval, Luxembourg (2024 – Expected Dec 2026) — Focus: C, C++, Python, JavaScript
 - CS50: Introduction to Computer Science (Certificate) — Harvard University (2024) — Focus: Web, Data, C, Python, SQL
 - Bachelor of Commerce (Economics & Finance) — University of Melbourne, Australia (2013–2016)
 
 **Certificates**
-- AI Academy – DLH Luxembourg (Apr 2025) — 7-month AI specialization: linear algebra, Python, data manipulation, ML, capstone
-- Google Project Management – Google (Sep 2025) — Project initiation, planning, execution, Agile
-- Journey to the Cloud – DLH (Sep 2025) — AWS Cloud Practitioner, Cloud Fundamentals, DevOps basics
-- Microsoft Power Platform Fundamentals (PL-900) – DLH (Nov 2025) — Power BI, Power Apps, Power Automate, Power Virtual Agents, Dataverse
+- AI Academy – DLH Luxembourg (2025) — 7-month AI specialization: linear algebra, Python, data manipulation, ML, capstone
+- Google Project Management – Google (2025) — Project initiation, planning, execution, Agile
+- Journey to the Cloud – DLH (2025) — AWS Cloud Practitioner, Cloud Fundamentals, DevOps basics
+- Microsoft Power Platform Fundamentals (PL-900) – DLH (2025) — Power BI, Power Apps, Power Automate, Power Virtual Agents, Dataverse
 
 ---
 
