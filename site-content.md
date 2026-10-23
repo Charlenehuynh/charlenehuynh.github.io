@@ -15,7 +15,7 @@ I have a confession: I hate inefficiency. It's kind of become my whole career. O
 
 **Positioning line:** I help scaling teams replace manual chaos with automated systems — using project management, process design, and AI most PMs can't build themselves.
 
-**Languages:** English (Native, IELTS 8.5/C2) · French (Professional working) · Vietnamese (Native) · Spanish (Beginner)
+**Languages:** English (Native, C2, IELTS 8.5) · French (Professional working, B2) · Vietnamese (Native, C2) · Spanish (Elementary, A2)
 
 **Contact:**
 - Phone: +33 7 45 25 55 53
